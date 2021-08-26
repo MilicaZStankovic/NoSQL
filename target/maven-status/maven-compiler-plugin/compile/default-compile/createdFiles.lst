@@ -1,0 +1,16 @@
+domaci\databinding\PriceRange.class
+domaci\databinding\Restaurant.class
+databinding\Bathrooms.class
+databinding\Location.class
+domaci\databinding\Hour.class
+databinding\Availability.class
+databinding\Host.class
+domaci\databinding\Description.class
+main\CreateJson.class
+databinding\Neighborhood.class
+databinding\Review.class
+databinding\Scrape.class
+domaci\main\CreateJson.class
+domaci\databinding\Menu.class
+databinding\Listing.class
+databinding\Review_scores.class
